@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">לומדים עם לב</title><desc id="desc">מתמטיקה ופיזיקה שמבינים באמת</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06131f"/><stop offset="1" stop-color="#10344c"/></linearGradient>
+    <pattern id="grid" width="58" height="58" patternUnits="userSpaceOnUse"><path d="M58 0H0v58" fill="none" stroke="#fff" stroke-opacity=".055"/></pattern>
+    <linearGradient id="curve" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#49d7e7"/><stop offset="1" stop-color="#5c9ef8"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#grid)"/>
+  <circle cx="80" cy="62" r="330" fill="none" stroke="#49d7e7" stroke-opacity=".1"/><circle cx="80" cy="62" r="245" fill="none" stroke="#49d7e7" stroke-opacity=".1"/>
+  <g transform="translate(75 135)">
+    <path d="M0 300c92-7 107-67 155-118 57-61 105-64 153-2 53 68 79 106 147 79 54-21 76-101 152-174" fill="none" stroke="url(#curve)" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="308" cy="180" r="11" fill="#f2b56a" stroke="#fff" stroke-width="4"/>
+    <path d="M58 370h560M142 18v365" fill="none" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+    <path d="m608 362 14 8-14 8M134 29l8-14 8 14" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2"/>
+    <text x="23" y="344" fill="#fff" fill-opacity=".57" font-family="Georgia,serif" font-style="italic" font-size="30">y = x²</text>
+  </g>
+  <g transform="translate(1125 123)" text-anchor="end" font-family="Arial,sans-serif">
+    <text y="0" fill="#49d7e7" font-size="25" font-weight="700">לומדים עם לב</text>
+    <text y="95" fill="#fff" font-size="59" font-weight="700">מתמטיקה ופיזיקה</text>
+    <text y="166" fill="#49d7e7" font-size="59" font-weight="700">שמבינים באמת.</text>
+    <text y="225" fill="#fff" fill-opacity=".63" font-size="24">שיעורים פרטיים · מודיעין והסביבה</text>
+  </g>
+  <g transform="translate(1135 535)" font-family="Arial,sans-serif">
+    <rect x="-350" y="-34" width="350" height="68" rx="34" fill="#49d7e7"/>
+    <text x="-175" y="9" text-anchor="middle" fill="#06131f" font-size="24" font-weight="700">learnwithlev.com</text>
+  </g>
+</svg>
