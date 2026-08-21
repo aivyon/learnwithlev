@@ -87,6 +87,7 @@ def main() -> None:
         'name="twitter:card"',
         'href="tel:+972523772425"',
         'href="mailto:contact@learnwithlev.com',
+        'href="https://wa.me/972523772425"',
         'id="contact"',
     )
     for marker in required:
